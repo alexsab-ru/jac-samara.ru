@@ -24,6 +24,12 @@
 	&[data-color="bronze"] {
 		@apply bg-[#480808];
 	}
+	&[data-color="brown"] {
+		@apply bg-[#613302];
+	}
+	&[data-color="silver"] {
+		@apply bg-[#DDDDDD];
+	}
 	&.active::after {
 		border: 2px solid #aaa;
 		border-radius: 50%;
