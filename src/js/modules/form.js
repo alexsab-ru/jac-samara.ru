@@ -139,7 +139,7 @@ $$("form").forEach((form) => {
 			params.append(pair[0], pair[1]);
 		}
 		// await fetch('https://alexsab.ru/lead/test/', {
-		await fetch("https://alexsab.ru/lead/jetour/alpha/", {
+		await fetch("https://alexsab.ru/lead/jac-samara/", {
 			method: "POST",
 			mode: "cors",
 			cache: "no-cache",
