@@ -245,7 +245,7 @@
 				</div>
 				<p class="caption text-center text-3xl mb-2 text-gray-800">Обратная связь</p>
 				<p class="text-center mb-10 font-normal text-gray-600">Оставьте свои данные и мы свяжемся с Вами в ближайшее время!</p>
-				<form class="flex flex-col gap-4 sm:gap-5" id="rating-form">
+				<form class="flex flex-col gap-4 sm:gap-5" id="common_form" name="common_form">
 					<input type="hidden" name="form" value="">
 					<input type="email" tabindex="-1" name="email" class="h-0 opacity-0 absolute -z-[100]" placeholder="mail@example.com">
 					<div class="w-full">
@@ -286,5 +286,10 @@
 
 		
 
+		<!-- calltouch -->
+		<script>
+		(function(w,d,n,c){w.CalltouchDataObject=n;w[n]=function(){w[n]["callbacks"].push(arguments)};if(!w[n]["callbacks"]){w[n]["callbacks"]=[]}w[n]["loaded"]=false;if(typeof c!=="object"){c=[c]}w[n]["counters"]=c;for(var i=0;i<c.length;i+=1){p(c[i])}function p(cId){var a=d.getElementsByTagName("script")[0],s=d.createElement("script"),i=function(){a.parentNode.insertBefore(s,a)},m=typeof Array.prototype.find === 'function',n=m?"init-min.js":"init.js";s.async=true;s.src="https://mod.calltouch.ru/"+n+"?id="+cId;if(w.opera=="[object Opera]"){d.addEventListener("DOMContentLoaded",i,false)}else{i()}}})(window,document,"ct","hok0bbb2");
+		</script>
+		<!-- /calltouch -->
 	</body>
 </html>
