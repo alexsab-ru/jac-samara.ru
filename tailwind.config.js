@@ -18,6 +18,7 @@ export const theme = {
     white: colors.white,
     black: colors.black,
     gray: colors.gray,
+    kia: '#05141f',
   },
   extend: {
     fontFamily: {
