@@ -138,8 +138,86 @@
 			</div>
 		</section>
 
+		<section class="models py-10 sm:py-20">
+			<div class="container">
+				<h2 class="text-center font-medium text-3xl sm:text-4xl mb-8 sm:mb-14">Модельный ряд</h2>
+
+				<div class="grid max-[569px]:grid-cols-1 grid-cols-2 lg:grid-cols-3 gap-5 text-[10px] sm:text-xs 2xl:text-base">
+
+					<a href="#j7" class="flex flex-col border pt-6 sm:pt-10 pb-4 px-4 sm:px-5 overflow-hidden shadow-xl transition-all duration-500 in-expo group hover:border-gray-400 hover:shadow-md">
+						<div>
+							<span class="block text-4xl sm:text-5xl uppercase font-bold transition-colors duration-500 group-hover:text-accent">J<span class="text-accent transition-colors duration-500 group-hover:text-black">7</span></span>
+						</div>
+						<div class="flex-grow flex items-center justify-center mt-5">
+							<img src="/img/j7/red.png" class="scale-100 transition-transform duration-500 in-expo group-hover:scale-110" alt="J7">
+						</div>
+						<div class="flex mt-10 divide-x">
+							<div class="flex-1 p-4 flex flex-col items-center gap-2">
+								<img src="/img/icons/icon-seats.png">
+								<span>5 мест</span>
+							</div>
+							<div class="flex-1 p-4 flex flex-col items-center gap-2">
+								<img src="/img/icons/icon-petrol.png">
+								<span>Бензин</span>
+							</div>
+							<div class="flex-1 p-4 flex flex-col items-center gap-2">
+								<img src="/img/icons/icon-auto.png">
+								<span>6MT/CVT</span>
+							</div>
+						</div>
+					</a>
+					<a href="#js6" class="flex flex-col border pt-6 sm:pt-10 pb-4 px-4 sm:px-5 overflow-hidden shadow-xl transition-all duration-500 in-expo group hover:border-gray-400 hover:shadow-md">
+						<div>
+							<span class="block text-4xl sm:text-5xl uppercase font-bold transition-colors duration-500 group-hover:text-accent">JS<span class="text-accent transition-colors duration-500 group-hover:text-black">6</span></span>
+						</div>
+						<div class="flex-grow flex items-center justify-center mt-5">
+							<img src="/img/js6/black.png" class="scale-100 transition-transform duration-500 in-expo group-hover:scale-110" alt="JS6">
+						</div>
+						<div class="flex mt-10 divide-x">
+							<div class="flex-1 p-4 flex flex-col items-center gap-2">
+								<img src="/img/icons/icon-seats.png">
+								<span>5 мест</span>
+							</div>
+							<div class="flex-1 p-4 flex flex-col items-center gap-2">
+								<img src="/img/icons/icon-petrol.png">
+								<span>Бензин</span>
+							</div>
+							<div class="flex-1 p-4 flex flex-col items-center gap-2">
+								<img src="/img/icons/icon-auto.png">
+								<span>DCT6</span>
+							</div>
+						</div>
+					</a>
+					<a href="#t8-pro" class="flex flex-col border pt-6 sm:pt-10 pb-4 px-4 sm:px-5 overflow-hidden shadow-xl transition-all duration-500 in-expo group hover:border-gray-400 hover:shadow-md">
+						<div>
+							<span class="block text-4xl sm:text-5xl uppercase font-bold transition-colors duration-500 group-hover:text-accent">T<span class="text-accent transition-colors duration-500 group-hover:text-black">8</span> Pro</span>
+						</div>
+						<div class="flex-grow flex items-center justify-center mt-5">
+							<img src="/img/t8-pro/blue.png" class="scale-100 transition-transform duration-500 in-expo group-hover:scale-110" alt="T8-PRO">
+						</div>
+						<div class="flex mt-10 divide-x">
+							<div class="flex-1 p-4 flex flex-col items-center gap-2">
+								<img src="/img/icons/icon-seats.png">
+								<span>5 мест</span>
+							</div>
+							<div class="flex-1 p-4 flex flex-col items-center gap-2">
+								<img src="/img/icons/icon-petrol.png">
+								<span>Бензин</span>
+							</div>
+							<div class="flex-1 p-4 flex flex-col items-center gap-2">
+								<img src="/img/icons/icon-auto.png">
+								<span>LC6T32</span>
+							</div>
+						</div>
+					</a>
+
+				</div>
+
+			</div>
+		</section>
+
 		<!-- S3 -->
-		<section class="relative pb-20 xl:pb-32 z-[1] model hidden" data-dir="s3">
+		<section class="relative pb-20 xl:pb-32 z-[1] model hidden" data-dir="s3" id="s3">
 			<img
 				src="/img/s3/bg.jpg"
 				class="absolute w-full h-[420px] object-cover z-[-1]"
@@ -378,7 +456,7 @@
 		</section>
 
 		<!-- T6 -->
-		<section class="relative pb-20 xl:pb-32 z-[1] model hidden" data-dir="t6">
+		<section class="relative pb-20 xl:pb-32 z-[1] model hidden" data-dir="t6" id="t6">
 			<img
 				src="/img/s3/bg.jpg"
 				class="absolute w-full h-[420px] object-cover z-[-1]"
@@ -593,7 +671,7 @@
 		</section>
 
 		<!-- iEV7S -->
-		<section class="relative pb-20 xl:pb-32 z-[1] model hidden" data-dir="iev7s">
+		<section class="relative pb-20 xl:pb-32 z-[1] model hidden" data-dir="iev7s" id="iev7s">
 			<img
 				src="/img/s3/bg.jpg"
 				class="absolute w-full h-[420px] object-cover z-[-1]"
@@ -760,7 +838,7 @@
 		</section>
 
 		<!-- J7 -->
-		<section class="relative pb-20 xl:pb-32 z-[1] model" data-dir="j7">
+		<section class="relative pb-20 xl:pb-32 z-[1] model" data-dir="j7" id="j7">
 			<img
 				src="/img/s3/bg.jpg"
 				class="absolute w-full h-[420px] object-cover z-[-1]"
@@ -865,7 +943,7 @@
 					</a>
 				</div>
 
-				<div class="block md:hidden mb-10 mt-10">
+				<div class="block md:hidden mb-10 max-[400px]:mt-20 mt-10">
 					<img
 						src="/img/j7/white.png"
 						class="w-full h-auto color-img-preview"
@@ -907,7 +985,7 @@
 				</div>
 
 				<div
-					class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-y-8 xl:gap-y-0 xl:grid-cols-6 mt-4 md:mt-[250px] xl:mt-[300px] 2xl:mt-[350px] divide-x"
+					class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-y-8 xl:gap-y-0 xl:grid-cols-6 mt-4 md:mt-[320px] xl:mt-[400px] divide-x"
 				>
 					<div class="px-4 first:pl-0 space-y-6 sm:space-y-8">
 						<div class="text-xs sm:text-base">Колёсная база:</div>
@@ -975,7 +1053,7 @@
 		</section>
 
 		<!-- JS6 -->
-		<section class="relative pb-20 xl:pb-32 z-[1] model" data-dir="js6">
+		<section class="relative pb-20 xl:pb-32 z-[1] model" data-dir="js6" id="js6">
 			<img
 				src="/img/s3/bg.jpg"
 				class="absolute w-full h-[420px] object-cover z-[-1]"
@@ -1080,13 +1158,13 @@
 					</a>
 				</div>
 
-				<div class="block md:hidden mb-10 mt-10">
+				<div class="block md:hidden mb-10 max-sm:mt-20">
 					<img
 						src="/img/js6/white.png"
 						class="w-full h-auto color-img-preview"
 						alt="JAC JS6"
 					/>
-					<div class="flex flex-wrap justify-center gap-5 relative color-links">
+					<div class="flex flex-wrap justify-center gap-5 relative color-links mt-5">
 						<a
 							href="#"
 							class="color-link active"
@@ -1122,7 +1200,7 @@
 				</div>
 
 				<div
-					class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-y-8 xl:gap-y-0 xl:grid-cols-6 mt-4 md:mt-[250px] xl:mt-[300px] 2xl:mt-[350px] divide-x"
+					class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-y-8 xl:gap-y-0 xl:grid-cols-6 mt-4 md:mt-[300px] lg:mt-[350px] xl:mt-[400px] divide-x"
 				>
 					<div class="px-4 first:pl-0 space-y-6 sm:space-y-8">
 						<div class="text-xs sm:text-base">Колёсная база:</div>
@@ -1190,7 +1268,7 @@
 		</section>
 
 		<!-- T8 Pro -->
-		<section class="relative pb-20 xl:pb-32 z-[1] model" data-dir="t8-pro">
+		<section class="relative pb-20 xl:pb-32 z-[1] model" data-dir="t8-pro" id="t8-pro">
 			<img
 				src="/img/s3/bg.jpg"
 				class="absolute w-full h-[420px] object-cover z-[-1]"
@@ -1289,7 +1367,7 @@
 				</div>
 
 				<div
-					class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-y-8 xl:gap-y-0 xl:grid-cols-6 mt-4 md:mt-[250px] xl:mt-[300px] 2xl:mt-[350px] divide-x"
+					class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-y-8 xl:gap-y-0 xl:grid-cols-6 mt-4 md:mt-[300px] xl:mt-[350px] 2xl:mt-[380px] divide-x"
 				>
 					<div class="px-4 first:pl-0 space-y-6 sm:space-y-8">
 						<div class="text-xs sm:text-base">Колёсная база:</div>
