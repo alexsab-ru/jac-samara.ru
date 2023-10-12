@@ -5,12 +5,12 @@ if(hashURL){
 	window.scrollTo(0, 0);
 	setTimeout(() => {window.scrollTo(0, 0)}, 1);
 
-	window.addEventListener("load", function (event) {
+	// window.addEventListener("load", function (event) {
 		setTimeout(() => {
 			scroll(hashURL)
 		}, 200)
 		window.location.hash = hashURL;	
-	});
+	// });
 }
 
 document.querySelectorAll('a[href^="#"]:not(.popup-link)').forEach((link) => {
