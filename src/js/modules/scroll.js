@@ -2,8 +2,9 @@ const hashURL = window.location.hash.substring(1);
 window.location.hash = '';
 
 if(hashURL){
-	setTimeout(() => {window.scrollTo(0, 0)}, 0);
-	
+	window.scrollTo(0, 0);
+	setTimeout(() => {window.scrollTo(0, 0)}, 1);
+
 	window.addEventListener("load", function (event) {
 		setTimeout(() => {
 			scroll(hashURL)
