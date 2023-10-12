@@ -1,8 +1,10 @@
-const hashURL = window.location.hash.substring(1);
+const hashURL = window.location.hash;
+window.location.hash = '';
 
 if(hashURL){
 	window.addEventListener("load", function (event) {
-		setTimeout(() => scroll(hashURL), 200)
+		setTimeout(() => scroll(hashURL.substring(1)), 200)
+		window.location.hash = hashURL;
 	});
 }
 
