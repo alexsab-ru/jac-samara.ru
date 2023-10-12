@@ -3,8 +3,8 @@ window.location.hash = '';
 
 if(hashURL){
 	window.addEventListener("load", function (event) {
-		setTimeout(() => scroll(hashURL.substring(1)), 1000)
-		window.location.hash = hashURL;
+		setTimeout(() => scroll(hashURL.substring(1)), 200)
+		// window.location.hash = hashURL;
 	});
 }
 
