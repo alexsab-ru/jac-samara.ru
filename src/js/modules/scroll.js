@@ -1,7 +1,9 @@
 const hashURL = window.location.hash.substring(1);
 
 if(hashURL){
-	setTimeout(() => scroll(hashURL), 200)
+	window.addEventListener("load", function (event) {
+		setTimeout(() => scroll(hashURL), 200)
+	});
 }
 
 document.querySelectorAll('a[href^="#"]:not(.popup-link)').forEach((link) => {
