@@ -34,6 +34,12 @@ const initSlider = () => {
 			prevEl: ".banner-button-prev",
 		},
 		on: {
+			init(){
+				videoActive = this.slides[this.activeIndex].querySelector("video");
+				if (videoActive) {
+					videoActive.play();
+				}
+			},
 			autoplayTimeLeft(s, time, progress) {
 				progressCircle.style.setProperty("--progress", 1 - progress);
 				progressContent.textContent = `${Math.ceil(time / 1000)}с.`;
