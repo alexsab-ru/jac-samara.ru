@@ -1,15 +1,24 @@
 import { phoneFormat } from '@/js/utils/numbers.format';
-
-export const BASE_URL = 'https://alexsab-ru.github.io/astro-json/'; // Адрес для JSON
-export const SITE_URL = 'jac-samara.ru'; // URL сайта по умолчанию
-export const SITE_NAME = 'JAC Центр Самара'; // Название сайта по умолчанию
-export const LEGAL_ENTITY = 'ООО «КИА Центр Самара»'; // Юр лицо
-export const LEGAL_INN = '6311098600'; // ИНН
-export const LEGAL_CITY = 'г. Самара'; // Город
-export const LEGAL_CITY_WHERE = 'Самаре'; // где? в Городе
-export const SITE_DESCR = 'Официальный дилер JAC Motors (Джак Моторс)'; // Описание сайта по умолчанию
-export const TELEGRAM = ''; // Имя пользователя в Телегам
-export const PHONE = '8 (846) 977-77-07'; // Телефон по умолчанию
+// Адрес для JSON
+export const BASE_URL = 'https://alexsab-ru.github.io/astro-json/';
+// URL сайта по умолчанию
+export const SITE_URL = 'jac-samara.ru';
+// Название сайта по умолчанию
+export const SITE_NAME = 'JAC Центр Самара';
+// Юр лицо
+export const LEGAL_ENTITY = 'ООО «КИА Центр Самара»';
+// ИНН
+export const LEGAL_INN = '6311098600';
+// Город
+export const LEGAL_CITY = 'г. Самара';
+// где? в Городе
+export const LEGAL_CITY_WHERE = 'Самаре';
+// Описание сайта по умолчанию
+export const SITE_DESCR = 'Официальный дилер JAC Motors (Джак Моторс)';
+// Имя пользователя в Телегам
+export const TELEGRAM = '';
+// Телефон по умолчанию
+export const PHONE = '8 (846) 977-77-07';
 
 export const BRAND = 'JAC';
 
