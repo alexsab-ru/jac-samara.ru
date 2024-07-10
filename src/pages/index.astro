@@ -9,6 +9,7 @@ import Model from '@/components/Model/Model.astro';
 import Callback from '@/components/Callback.astro';
 import Services from '@/components/Services.astro';
 import Contacts from '@/components/Contacts.astro';
+import AutoShowModal from '@/components/AutoShowModal.astro';
 import models from '@/data/models.json'
 import salons from '@/data/salons.json'
 const salonsPhone = salons.map((salon: any) => { return salons[0].phone }).join(', ');
@@ -26,4 +27,15 @@ const salonsPhone = salons.map((salon: any) => { return salons[0].phone }).join(
 		mapImg="/img/map-bg.webp"
 		title="Наши контакты"
 	/>
+
+	<AutoShowModal
+		modalShow = 10000
+		title="JAC В НАЛИЧИИ.<br> Особые условия на покупку автомобилей JAC по цене от 1 490 000 рублей."
+		subtitle="Оставьте заявку для записи на тест-драйв и получите возможность приобрести JAC выгодно."
+		testDrive={true}
+		modalPosition="right-bottom"
+		img = '/img/js6-750x1034.webp'
+		imgPosition = 'left'
+	/>
+
 </Layout>
