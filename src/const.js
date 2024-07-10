@@ -19,7 +19,7 @@ export const PHONE = '8 (846) 977-77-07';
 export const BRAND = 'JAC';
 // Конечное время для таймера
 //string 2024-04-26 or 2024-04-26 23:59:59 or December 31 2015 or December 31 2015 23:59:59 GMT+02:00
-export const TIMER_ENDTIME = '';
+export const TIMER_ENDTIME = '2024-07-31';
 // Ссылка яндекс-виджета
 export const LINK_WIDGET = 'https://yandex.ru/map-widget/v1/-/';
 // Ссылка организации для виджета
