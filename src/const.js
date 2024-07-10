@@ -2,7 +2,7 @@ import { phoneFormat } from '@/js/utils/numbers.format';
 // Название сайта по умолчанию
 export const SITE_NAME = 'JAC Центр Самара';
 // Юр лицо
-export const LEGAL_ENTITY = 'ООО «КИА Центр Самара»';
+export const LEGAL_ENTITY = 'ООО «Центр Самара»';
 // ИНН
 export const LEGAL_INN = '6311098600';
 // Город
@@ -26,7 +26,7 @@ export const LINK_WIDGET = 'https://yandex.ru/map-widget/v1/-/';
 export const LINK_WIDGET_ORGNIZATION = 'CDVxRGLQ';
 // Ссылки под хедером
 export const LINKS_MENU = [
-	{url: 'cars/', name: 'Авто в наличии'},
+	// {url: 'cars/', name: 'Авто в наличии'},
 	// {url: 'special-offers/', name: 'Спецпредложения'},
 	// {url: 'news/', name: 'Новости'},
 	{url: 'test-drive/', name: 'Запись на тест-драйв'},
@@ -35,7 +35,7 @@ export const LINKS_MENU = [
 	{url: 'contacts/', name: 'Контакты'},
 ];
 // Текстовая строка над хедером
-export const HEADER_TOP_LINE = 'ООО "Киа Центр Самара" расширяет горизонты: теперь и дилер JAC Motors (Джак Моторс)';
+export const HEADER_TOP_LINE = '';
 // Текст согласия в формах
 export const AGREE_LABEL = '<span>Я согласен на</span><a href="/privacy-policy" class="underline transition-all hover:no-underline" target="_blank">обработку персональных данных</a>';
 // Текст информации в футере
