@@ -19,7 +19,9 @@ export const PHONE = '8 (846) 977-77-07';
 export const BRAND = 'JAC';
 // Конечное время для таймера
 //string 2024-04-26 or 2024-04-26 23:59:59 or December 31 2015 or December 31 2015 23:59:59 GMT+02:00
-export const TIMER_ENDTIME = '2024-07-31';
+export const TIMER_ENDTIME = '';
+// Объект для бегущей строки
+export const MARQUEE = {title: 'Тотальная распродажа до', dateTo: '31.07', count: [1,2,3,4,5,6,7,8], show: false };
 // Ссылка яндекс-виджета
 export const LINK_WIDGET = 'https://yandex.ru/map-widget/v1/-/';
 // Ссылка организации для виджета
