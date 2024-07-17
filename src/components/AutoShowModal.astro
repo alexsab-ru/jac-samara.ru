@@ -14,6 +14,7 @@ const {
 	modalPosition = 'center',
 	img = '/img/people/user.webp',
 	imgPosition = 'right',
+	formName = ''
 } = Astro.props;
 
 import models from '@/data/models.json';
@@ -40,7 +41,7 @@ const options = testDrive ?  models.filter(m => {
 			{title && (<p class="caption text-xl sm:text-3xl mb-8 text-gray-800"><Fragment set:html={title} /></p>)}
 			{subtitle && (<p class="caption mb-8 text-gray-600"><Fragment set:html={subtitle} /></p>)}
 			<form class="flex flex-col gap-4" id="rating-form">
-				<input type="hidden" name="form" value="" />
+				<input type="hidden" name="form" value={formName} />
 				<input
 					type="email"
 					tabindex="-1"
