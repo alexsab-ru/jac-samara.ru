@@ -6,6 +6,7 @@ import PageTitle from '@/components/PageTitle/Index.astro';
 import Timer from '@/components/Timer/Timer.astro';
 import ModelList from '@/components/Model/ModelList.astro';
 import Model from '@/components/Model/Model.astro';
+import ModelComplectations from '@/components/Model/Complectations.astro';
 import Callback from '@/components/Callback.astro';
 import Services from '@/components/Services.astro';
 import Contacts from '@/components/Contacts.astro';
@@ -13,6 +14,7 @@ import AutoShowModal from '@/components/AutoShowModal.astro';
 import Morquee from '@/components/Marquee/Index.astro';
 import models from '@/data/models.json'
 import salons from '@/data/salons.json'
+const modelsWithComplectations = models.filter(m => (m.complectations !== undefined && m.complectations.length))
 const salonsPhone = salons.map((salon: any) => { return salons[0].phone }).join(', ');
 ---
 
@@ -22,7 +24,8 @@ const salonsPhone = salons.map((salon: any) => { return salons[0].phone }).join(
 	{TIMER_ENDTIME && <Timer endtime={TIMER_ENDTIME} title="ТОТАЛЬНАЯ РАСПРОДАЖА ДО 31.07" subtitle="До конца акции осталось:" btnName="Зафиксируйте цену&nbsp;&mdash; дешевле не&nbsp;найти!" class="bg-gray-200" />}
 	<PageTitle />
 	<ModelList />
-	{models && models.map((model: any) => model.show && <Model model={model}/>)}
+	{models.length > 0 && models.map((model: any) => model.show && <Model model={model}/>)}
+	{modelsWithComplectations.length > 0 && <ModelComplectations models={modelsWithComplectations} brand={BRAND} />}
 	<Callback bgUrl="/img/konkurenty.webp" />
 	<Services />
 	<Contacts
