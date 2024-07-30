@@ -21,7 +21,7 @@ const salonsPhone = salons.map((salon: any) => { return salons[0].phone }).join(
 <Layout title=`Купить ${BRAND} у официального дилера ${SITE_NAME}` description=`Забронируйте свой автомобиль прямо сейчас у официалоного дилера ${BRAND} в ${LEGAL_CITY_WHERE}! ☎️ ${salonsPhone}`>
 	<Banner />
 	{MARQUEE.show && <Morquee marquee={ MARQUEE } />}
-	{TIMER_ENDTIME && <Timer endtime={TIMER_ENDTIME} title="ТОТАЛЬНАЯ РАСПРОДАЖА ДО 31.07" subtitle="До конца акции осталось:" btnName="Зафиксируйте цену&nbsp;&mdash; дешевле не&nbsp;найти!" class="bg-gray-200" />}
+	{TIMER_ENDTIME && <Timer endtime={TIMER_ENDTIME} title="ТОТАЛЬНАЯ РАСПРОДАЖА ДО 31.07.2024" subtitle="До конца акции осталось:" btnName="Зафиксируйте цену&nbsp;&mdash; дешевле не&nbsp;найти!" class="bg-gray-200" />}
 	<PageTitle />
 	<ModelList />
 	{models.length > 0 && models.map((model: any) => model.show && <Model model={model}/>)}
