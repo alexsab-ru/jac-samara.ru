@@ -222,7 +222,7 @@
 			<max_discount>270000</max_discount>
 			<currency>RUR</currency>
 			<registry_year>2023</registry_year>
-			<vin>LJ12FKT35P4034197</vin>
+			<vin>LJ12FKT33P4034196</vin>
 			<description />
 			<images />
 		<priceWithDiscount>1829000</priceWithDiscount><sale_price>1829000</sale_price><url>https://jac-samara.ru/cars/jac-car-j7-i-15-cvt-136-лс-luxury-темно-серый-2023/</url></car>
@@ -247,7 +247,7 @@
 			<max_discount>270000</max_discount>
 			<currency>RUR</currency>
 			<registry_year>2023</registry_year>
-			<vin>LJ12FKT33P4034196</vin>
+			<vin>LJ12FKT35P4034197</vin>
 			<description />
 			<images />
 		<priceWithDiscount>1829000</priceWithDiscount><sale_price>1829000</sale_price><url>https://jac-samara.ru/cars/jac-car-j7-i-15-cvt-136-лс-luxury-темно-серый-2023/</url></car>
@@ -397,9 +397,11 @@
 			<max_discount>270000</max_discount>
 			<currency>RUR</currency>
 			<registry_year>2023</registry_year>
-			<vin>LJ12FKT34P4045370</vin>
+			<vin>LJ12FKT33P4045585</vin>
 			<description />
-			<images />
+			<images>
+				<image>https://cars.avto-provereno.ru/feeds//LJ12FKT33P4045585/35bd1b80a31f1d31532b905400ff77da.jpg</image>
+			</images>
 		<priceWithDiscount>1829000</priceWithDiscount><sale_price>1829000</sale_price><url>https://jac-samara.ru/cars/jac-car-j7-i-15-cvt-136-лс-luxury-белый-2023/</url></car>
 		<car>
 			<mark_id>JAC CAR</mark_id>
@@ -422,11 +424,9 @@
 			<max_discount>270000</max_discount>
 			<currency>RUR</currency>
 			<registry_year>2023</registry_year>
-			<vin>LJ12FKT33P4045585</vin>
+			<vin>LJ12FKT34P4045370</vin>
 			<description />
-			<images>
-				<image>https://cars.avto-provereno.ru/feeds//LJ12FKT33P4045585/35bd1b80a31f1d31532b905400ff77da.jpg</image>
-			</images>
+			<images />
 		<priceWithDiscount>1829000</priceWithDiscount><sale_price>1829000</sale_price><url>https://jac-samara.ru/cars/jac-car-j7-i-15-cvt-136-лс-luxury-белый-2023/</url></car>
 		<car>
 			<mark_id>JAC CAR</mark_id>
@@ -574,7 +574,7 @@
 			<max_discount>100000</max_discount>
 			<currency>RUR</currency>
 			<registry_year>2023</registry_year>
-			<vin>LJ12EKR29P4750456</vin>
+			<vin>LJ12EKR20P4750457</vin>
 			<description />
 			<images />
 		<priceWithDiscount>1799000</priceWithDiscount><sale_price>1799000</sale_price><url>https://jac-samara.ru/cars/jac-car-js3-16-cvt-109-лс-luxury-черный-2023/</url></car>
@@ -599,7 +599,7 @@
 			<max_discount>100000</max_discount>
 			<currency>RUR</currency>
 			<registry_year>2023</registry_year>
-			<vin>LJ12EKR20P4750457</vin>
+			<vin>LJ12EKR29P4750456</vin>
 			<description />
 			<images />
 		<priceWithDiscount>1799000</priceWithDiscount><sale_price>1799000</sale_price><url>https://jac-samara.ru/cars/jac-car-js3-16-cvt-109-лс-luxury-черный-2023/</url></car>
