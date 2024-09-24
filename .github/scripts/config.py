@@ -62,6 +62,7 @@ model_mapping = {
             "Синий": "blue.webp",
             "Серый": "gray.webp",
             "Темно-серый": "gray.webp",
+            "Светло-серый": "silver.webp",
             "Красный": "red.webp",
             "Серебристый": "silver.webp",
             "Белый": "white.webp",
