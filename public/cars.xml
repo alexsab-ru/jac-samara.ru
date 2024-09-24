@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <data>
-	<cars>
-		<car>
+  <cars><car>
 			<mark_id>JAC CAR</mark_id>
 			<folder_id>J7, I</folder_id>
 			<modification_id>1.5 CVT (136 л.с.)</modification_id>
