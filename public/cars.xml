@@ -134,31 +134,6 @@
 			<body_type>Лифтбек</body_type>
 			<complectation_name>Luxury</complectation_name>
 			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2023</year>
-			<price>2099000</price>
-			<credit_discount>100000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>170000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>270000</max_discount>
-			<currency>RUR</currency>
-			<registry_year>2023</registry_year>
-			<vin>LJ12FKT34P4045370</vin>
-			<description />
-			<images />
-		<priceWithDiscount>1829000</priceWithDiscount><sale_price>1829000</sale_price><url>https://jac-samara.ru/cars/jac-j7-i-15-cvt-136-лс-luxury-белый-2023/</url></car>
-		<car>
-			<mark_id>JAC</mark_id>
-			<folder_id>J7, I</folder_id>
-			<modification_id>1.5 CVT (136 л.с.)</modification_id>
-			<body_type>Лифтбек</body_type>
-			<complectation_name>Luxury</complectation_name>
-			<wheel>левый</wheel>
 			<color>Красный</color>
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
@@ -434,8 +409,8 @@
 			<body_type>Лифтбек</body_type>
 			<complectation_name>Luxury</complectation_name>
 			<wheel>левый</wheel>
-			<color>Черный</color>
-			<metallic>нет</metallic>
+			<color>Белый</color>
+			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
@@ -448,10 +423,10 @@
 			<max_discount>270000</max_discount>
 			<currency>RUR</currency>
 			<registry_year>2023</registry_year>
-			<vin>LJ12FKT32P4031886</vin>
+			<vin>LJ12FKT34P4045370</vin>
 			<description />
 			<images />
-		<priceWithDiscount>1829000</priceWithDiscount><sale_price>1829000</sale_price><url>https://jac-samara.ru/cars/jac-j7-i-15-cvt-136-лс-luxury-черный-2023/</url></car>
+		<priceWithDiscount>1829000</priceWithDiscount><sale_price>1829000</sale_price><url>https://jac-samara.ru/cars/jac-j7-i-15-cvt-136-лс-luxury-белый-2023/</url></car>
 		<car>
 			<mark_id>JAC</mark_id>
 			<folder_id>J7, I</folder_id>
@@ -499,6 +474,31 @@
 			<currency>RUR</currency>
 			<registry_year>2023</registry_year>
 			<vin>LJ12FKT39P4034266</vin>
+			<description />
+			<images />
+		<priceWithDiscount>1829000</priceWithDiscount><sale_price>1829000</sale_price><url>https://jac-samara.ru/cars/jac-j7-i-15-cvt-136-лс-luxury-черный-2023/</url></car>
+		<car>
+			<mark_id>JAC</mark_id>
+			<folder_id>J7, I</folder_id>
+			<modification_id>1.5 CVT (136 л.с.)</modification_id>
+			<body_type>Лифтбек</body_type>
+			<complectation_name>Luxury</complectation_name>
+			<wheel>левый</wheel>
+			<color>Черный</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2023</year>
+			<price>2099000</price>
+			<credit_discount>100000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>170000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>270000</max_discount>
+			<currency>RUR</currency>
+			<registry_year>2023</registry_year>
+			<vin>LJ12FKT32P4031886</vin>
 			<description />
 			<images />
 		<priceWithDiscount>1829000</priceWithDiscount><sale_price>1829000</sale_price><url>https://jac-samara.ru/cars/jac-j7-i-15-cvt-136-лс-luxury-черный-2023/</url></car>
@@ -834,31 +834,6 @@
 			<body_type>Пикап Двойная кабина</body_type>
 			<complectation_name>Full Extra</complectation_name>
 			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2024</year>
-			<price>3199000</price>
-			<credit_discount>150000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>150000</max_discount>
-			<currency>RUR</currency>
-			<registry_year>2024</registry_year>
-			<vin>LJ11PABD9RC024195</vin>
-			<description />
-			<images />
-		<priceWithDiscount>3049000</priceWithDiscount><sale_price>3049000</sale_price><url>https://jac-samara.ru/cars/jac-t8-20-mt-177-лс-4wd-full-extra-белый-2024/</url></car>
-		<car>
-			<mark_id>JAC</mark_id>
-			<folder_id>T8</folder_id>
-			<modification_id>2.0 MT (177 л.с.) 4WD</modification_id>
-			<body_type>Пикап Двойная кабина</body_type>
-			<complectation_name>Full Extra</complectation_name>
-			<wheel>левый</wheel>
 			<color>Черный</color>
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
@@ -879,28 +854,28 @@
 		<priceWithDiscount>2849000</priceWithDiscount><sale_price>2849000</sale_price><url>https://jac-samara.ru/cars/jac-t8-20-mt-177-лс-4wd-full-extra-черный-2024/</url></car>
 		<car>
 			<mark_id>JAC</mark_id>
-			<folder_id>T9</folder_id>
-			<modification_id>2.0 AT (224 л.с.) 4WD</modification_id>
+			<folder_id>T8</folder_id>
+			<modification_id>2.0 MT (177 л.с.) 4WD</modification_id>
 			<body_type>Пикап Двойная кабина</body_type>
-			<complectation_name>Explore</complectation_name>
+			<complectation_name>Full Extra</complectation_name>
 			<wheel>левый</wheel>
-			<color>Черный</color>
-			<metallic>нет</metallic>
+			<color>Белый</color>
+			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
 			<year>2024</year>
-			<price>3399000</price>
+			<price>3199000</price>
 			<credit_discount>150000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>150000</tradein_discount>
+			<tradein_discount>0</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<max_discount>150000</max_discount>
 			<currency>RUR</currency>
 			<registry_year>2024</registry_year>
-			<vin>LJ11PAB55RC032643</vin>
+			<vin>LJ11PABD9RC024195</vin>
 			<description />
 			<images />
-		<priceWithDiscount>3249000</priceWithDiscount><sale_price>3249000</sale_price><url>https://jac-samara.ru/cars/jac-t9-20-at-224-лс-4wd-explore-черный-2024/</url></car>
+		<priceWithDiscount>3049000</priceWithDiscount><sale_price>3049000</sale_price><url>https://jac-samara.ru/cars/jac-t8-20-mt-177-лс-4wd-full-extra-белый-2024/</url></car>
 	</cars>
 </data>
