@@ -760,14 +760,14 @@
 			<price>2809000</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>200000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<currency>RUR</currency>
 			<registry_year>2024</registry_year>
 			<vin>LJ166A25XR4717255</vin>
 			<description />
 			<images />
-		<max_discount>0</max_discount><priceWithDiscount>2809000</priceWithDiscount><sale_price>2809000</sale_price><url>https://jac-samara.ru/cars/jac-js6-15-amt-174-лс-luxury-серый-2024/</url></car>
+		<max_discount>200000</max_discount><priceWithDiscount>2609000</priceWithDiscount><sale_price>2609000</sale_price><url>https://jac-samara.ru/cars/jac-js6-15-amt-174-лс-luxury-серый-2024/</url></car>
 		<car>
 			<mark_id>JAC</mark_id>
 			<folder_id>JS6</folder_id>
@@ -784,14 +784,14 @@
 			<price>2809000</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>200000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<currency>RUR</currency>
 			<registry_year>2024</registry_year>
 			<vin>LJ166A254R4717820</vin>
 			<description />
 			<images />
-		<max_discount>0</max_discount><priceWithDiscount>2809000</priceWithDiscount><sale_price>2809000</sale_price><url>https://jac-samara.ru/cars/jac-js6-15-amt-174-лс-luxury-белый-2024/</url></car>
+		<max_discount>200000</max_discount><priceWithDiscount>2609000</priceWithDiscount><sale_price>2609000</sale_price><url>https://jac-samara.ru/cars/jac-js6-15-amt-174-лс-luxury-белый-2024/</url></car>
 		<car>
 			<mark_id>JAC</mark_id>
 			<folder_id>JS6</folder_id>
@@ -808,14 +808,14 @@
 			<price>2699000</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>200000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<currency>RUR</currency>
 			<registry_year>2023</registry_year>
 			<vin>LJ166A257P4719011</vin>
 			<description />
 			<images />
-		<max_discount>0</max_discount><priceWithDiscount>2699000</priceWithDiscount><sale_price>2699000</sale_price><url>https://jac-samara.ru/cars/jac-js6-15-amt-174-лс-luxury-черный-2023/</url></car>
+		<max_discount>200000</max_discount><priceWithDiscount>2499000</priceWithDiscount><sale_price>2499000</sale_price><url>https://jac-samara.ru/cars/jac-js6-15-amt-174-лс-luxury-черный-2023/</url></car>
 		<car>
 			<mark_id>JAC</mark_id>
 			<folder_id>JS6</folder_id>
@@ -832,14 +832,14 @@
 			<price>2699000</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>200000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<currency>RUR</currency>
 			<registry_year>2023</registry_year>
 			<vin>LJ166A25XP4718838</vin>
 			<description />
 			<images />
-		<max_discount>0</max_discount><priceWithDiscount>2699000</priceWithDiscount><sale_price>2699000</sale_price><url>https://jac-samara.ru/cars/jac-js6-15-amt-174-лс-luxury-белый-2023/</url></car>
+		<max_discount>200000</max_discount><priceWithDiscount>2499000</priceWithDiscount><sale_price>2499000</sale_price><url>https://jac-samara.ru/cars/jac-js6-15-amt-174-лс-luxury-белый-2023/</url></car>
 		<car>
 			<mark_id>JAC</mark_id>
 			<folder_id>JS6</folder_id>
@@ -856,14 +856,14 @@
 			<price>2809000</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>200000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<currency>RUR</currency>
 			<registry_year>2024</registry_year>
 			<vin>LJ166A258R4718033</vin>
 			<description />
 			<images />
-		<max_discount>0</max_discount><priceWithDiscount>2809000</priceWithDiscount><sale_price>2809000</sale_price><url>https://jac-samara.ru/cars/jac-js6-15-amt-174-лс-luxury-серый-2024/</url></car>
+		<max_discount>200000</max_discount><priceWithDiscount>2609000</priceWithDiscount><sale_price>2609000</sale_price><url>https://jac-samara.ru/cars/jac-js6-15-amt-174-лс-luxury-серый-2024/</url></car>
 		<car>
 			<mark_id>JAC</mark_id>
 			<folder_id>T8</folder_id>
@@ -1048,7 +1048,7 @@
 			<price>3549000</price>
 			<credit_discount>150000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>100000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<currency>RUR</currency>
 			<registry_year>2024</registry_year>
@@ -1072,7 +1072,7 @@
 			<price>3549000</price>
 			<credit_discount>150000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>100000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<currency>RUR</currency>
 			<registry_year>2024</registry_year>
