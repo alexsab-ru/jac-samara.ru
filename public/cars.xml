@@ -688,14 +688,14 @@
 			<price>1889000</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>50000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<currency>RUR</currency>
 			<registry_year>2024</registry_year>
 			<vin>LJ12EKR29R4716746</vin>
 			<description />
 			<images />
-		<max_discount>0</max_discount><priceWithDiscount>1889000</priceWithDiscount><sale_price>1889000</sale_price><url>https://jac-samara.ru/cars/jac-js3-16-cvt-109-лс-luxury-белый-2024/</url></car>
+		<max_discount>50000</max_discount><priceWithDiscount>1839000</priceWithDiscount><sale_price>1839000</sale_price><url>https://jac-samara.ru/cars/jac-js3-16-cvt-109-лс-luxury-белый-2024/</url></car>
 		<car>
 			<mark_id>JAC</mark_id>
 			<folder_id>JS3</folder_id>
@@ -712,14 +712,14 @@
 			<price>1889000</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>50000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<currency>RUR</currency>
 			<registry_year>2024</registry_year>
 			<vin>LJ12EKR27R4717524</vin>
 			<description />
 			<images />
-		<max_discount>0</max_discount><priceWithDiscount>1889000</priceWithDiscount><sale_price>1889000</sale_price><url>https://jac-samara.ru/cars/jac-js3-16-cvt-109-лс-luxury-белый-2024/</url></car>
+		<max_discount>50000</max_discount><priceWithDiscount>1839000</priceWithDiscount><sale_price>1839000</sale_price><url>https://jac-samara.ru/cars/jac-js3-16-cvt-109-лс-luxury-белый-2024/</url></car>
 		<car>
 			<mark_id>JAC</mark_id>
 			<folder_id>JS6</folder_id>
