@@ -901,7 +901,7 @@
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
 			<year>2024</year>
-			<price>3549000</price>
+			<price>3599000</price>
 			<credit_discount>150000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>0</tradein_discount>
@@ -911,7 +911,7 @@
 			<vin>LJ11PAB55RC048132</vin>
 			<description />
 			<images />
-		<max_discount>150000</max_discount><priceWithDiscount>3399000</priceWithDiscount><sale_price>3399000</sale_price><url>https://jac-samara.ru/cars/jac-t9-20-at-224-лс-4wd-explore-черный-2024/</url></car>
+		<max_discount>150000</max_discount><priceWithDiscount>3449000</priceWithDiscount><sale_price>3449000</sale_price><url>https://jac-samara.ru/cars/jac-t9-20-at-224-лс-4wd-explore-черный-2024/</url></car>
 		<car>
 			<mark_id>JAC</mark_id>
 			<folder_id>T9</folder_id>
@@ -925,7 +925,7 @@
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
 			<year>2024</year>
-			<price>3549000</price>
+			<price>3599000</price>
 			<credit_discount>150000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>0</tradein_discount>
@@ -935,7 +935,7 @@
 			<vin>LJ11PAB55RC039933</vin>
 			<description />
 			<images />
-		<max_discount>150000</max_discount><priceWithDiscount>3399000</priceWithDiscount><sale_price>3399000</sale_price><url>https://jac-samara.ru/cars/jac-t9-20-at-224-лс-4wd-explore-серебристый-2024/</url></car>
+		<max_discount>150000</max_discount><priceWithDiscount>3449000</priceWithDiscount><sale_price>3449000</sale_price><url>https://jac-samara.ru/cars/jac-t9-20-at-224-лс-4wd-explore-серебристый-2024/</url></car>
 		<car>
 			<mark_id>JAC</mark_id>
 			<folder_id>T9</folder_id>
@@ -949,7 +949,7 @@
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
 			<year>2024</year>
-			<price>3549000</price>
+			<price>3599000</price>
 			<credit_discount>150000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>0</tradein_discount>
@@ -959,6 +959,6 @@
 			<vin>LJ11PAB57RC048133</vin>
 			<description />
 			<images />
-		<max_discount>150000</max_discount><priceWithDiscount>3399000</priceWithDiscount><sale_price>3399000</sale_price><url>https://jac-samara.ru/cars/jac-t9-20-at-224-лс-4wd-explore-черный-2024/</url></car>
+		<max_discount>150000</max_discount><priceWithDiscount>3449000</priceWithDiscount><sale_price>3449000</sale_price><url>https://jac-samara.ru/cars/jac-t9-20-at-224-лс-4wd-explore-черный-2024/</url></car>
 	</cars>
 </data>
