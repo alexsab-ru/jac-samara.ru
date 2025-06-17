@@ -23,7 +23,7 @@ const {
 import modelsData from '@/data/models.json';
 const { models } = modelsData;
 const options = testDrive ? models.filter(m => {
-	if(m.testDrive){
+	if(m?.testDrive){
 		return {id: m.id, name: m.name}
 	}
 }) : [];
