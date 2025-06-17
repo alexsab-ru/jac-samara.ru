@@ -20,8 +20,9 @@ const {
 	formName = ''
 } = Astro.props;
 
-import models from '@/data/models.json';
-const options = testDrive ?  models.filter(m => {
+import modelsData from '@/data/models.json';
+const { models } = modelsData;
+const options = testDrive ? models.filter(m => {
 	if(m.testDrive){
 		return {id: m.id, name: m.name}
 	}
