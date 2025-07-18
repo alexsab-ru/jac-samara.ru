@@ -308,7 +308,7 @@
 			<optional_discount>0</optional_discount>
 			<currency>RUR</currency>
 			<registry_year>2023</registry_year>
-			<vin>LJ12EKR24P4750493</vin>
+			<vin>LJ12EKR2XP4750496</vin>
 			<description />
 			<images />
 		<max_discount>600000</max_discount><priceWithDiscount>1299000</priceWithDiscount><sale_price>1299000</sale_price><url>https://jac-samara.ru/cars/jac-js3-16-cvt-109-лс-luxury-черный-2023/</url></car>
@@ -332,7 +332,7 @@
 			<optional_discount>0</optional_discount>
 			<currency>RUR</currency>
 			<registry_year>2023</registry_year>
-			<vin>LJ12EKR2XP4750496</vin>
+			<vin>LJ12EKR24P4750493</vin>
 			<description />
 			<images />
 		<max_discount>600000</max_discount><priceWithDiscount>1299000</priceWithDiscount><sale_price>1299000</sale_price><url>https://jac-samara.ru/cars/jac-js3-16-cvt-109-лс-luxury-черный-2023/</url></car>
@@ -456,30 +456,6 @@
 			<description />
 			<images />
 		<max_discount>650000</max_discount><priceWithDiscount>2159000</priceWithDiscount><sale_price>2159000</sale_price><url>https://jac-samara.ru/cars/jac-js6-15-amt-174-лс-luxury-серый-2024/</url></car>
-		<car>
-			<mark_id>JAC</mark_id>
-			<folder_id>T8</folder_id>
-			<modification_id>2.0 MT (177 л.с.) 4WD</modification_id>
-			<body_type>Пикап Двойная кабина</body_type>
-			<complectation_name>Full Extra</complectation_name>
-			<wheel>левый</wheel>
-			<color>Серебристый</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2024</year>
-			<price>3059000</price>
-			<credit_discount>350000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>100000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<currency>RUR</currency>
-			<registry_year>2024</registry_year>
-			<vin>LJ11PAB5XRC037871</vin>
-			<description />
-			<images />
-		<max_discount>450000</max_discount><priceWithDiscount>2609000</priceWithDiscount><sale_price>2609000</sale_price><url>https://jac-samara.ru/cars/jac-t8-20-mt-177-лс-4wd-full-extra-серебристый-2024/</url></car>
 		<car>
 			<mark_id>JAC</mark_id>
 			<folder_id>T8</folder_id>
